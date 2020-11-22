@@ -1,0 +1,65 @@
+[INFO ] 2020-08-25 23:10:09.132 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-08-25 23:10:36.696 [main] BaseTestClass - Done is displayed
+[INFO ] 2020-08-25 23:10:36.696 [main] BaseTestClass - Done getting clicked
+[INFO ] 2020-08-25 23:10:39.078 [main] BaseTestClass - Skip Sign-In is displayed
+[INFO ] 2020-08-25 23:10:39.078 [main] BaseTestClass - Skip Sign-In getting clicked
+[INFO ] 2020-08-25 23:10:39.259 [main] BaseTestClass - Main Search Box getting attribute
+[INFO ] 2020-08-25 23:10:46.588 [main] BaseTestClass - Main Menu Bar click successful
+[INFO ] 2020-08-25 23:10:47.803 [main] BaseTestClass - Shop By Department Arrow click successful
+[INFO ] 2020-08-25 23:10:50.922 [main] BaseTestClass - Electronics click successful
+[INFO ] 2020-08-25 23:10:52.492 [main] BaseTestClass - Electronics Page is displayed
+[INFO ] 2020-08-25 23:10:52.493 [main] BaseTestClass - Electronics Page getting attribute
+[ERROR] 2020-08-25 23:10:52.989 [main] BaseTestClass - expected [Electronics Store] but found [Electronics]
+[INFO ] 2020-08-26 14:54:24.336 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[ERROR] 2020-08-26 14:55:01.092 [main] BaseTestClass - Done cannot be clicked
+[ERROR] 2020-08-26 14:55:01.108 [main] BaseTestClass - null
+[INFO ] 2020-08-26 14:55:36.691 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-08-26 14:56:05.668 [main] BaseTestClass - Done is displayed
+[INFO ] 2020-08-26 14:56:05.668 [main] BaseTestClass - Done getting clicked
+[INFO ] 2020-08-26 14:56:08.407 [main] BaseTestClass - Skip Sign-In is displayed
+[INFO ] 2020-08-26 14:56:08.407 [main] BaseTestClass - Skip Sign-In getting clicked
+[INFO ] 2020-08-26 14:56:08.819 [main] BaseTestClass - Main Search Box getting attribute
+[INFO ] 2020-08-26 14:56:13.642 [main] BaseTestClass - Main Menu Bar click successful
+[INFO ] 2020-08-26 14:56:15.877 [main] BaseTestClass - Shop By Department Arrow click successful
+[INFO ] 2020-08-26 14:56:16.897 [main] BaseTestClass - Electronics click successful
+[INFO ] 2020-08-26 14:56:19.735 [main] BaseTestClass - Electronics Page is displayed
+[INFO ] 2020-08-26 14:56:19.735 [main] BaseTestClass - Electronics Page getting attribute
+[ERROR] 2020-08-26 14:56:21.158 [main] BaseTestClass - expected [Electronics Store] but found [Electronics]
+[INFO ] 2020-08-26 14:58:28.712 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-08-26 14:58:57.160 [main] BaseTestClass - Done is displayed
+[INFO ] 2020-08-26 14:58:57.160 [main] BaseTestClass - Done getting clicked
+[INFO ] 2020-08-26 14:58:59.449 [main] BaseTestClass - Skip Sign-In is displayed
+[INFO ] 2020-08-26 14:58:59.450 [main] BaseTestClass - Skip Sign-In getting clicked
+[INFO ] 2020-08-26 14:58:59.580 [main] BaseTestClass - Main Search Box getting attribute
+[INFO ] 2020-08-26 14:59:06.026 [main] BaseTestClass - Main Menu Bar click successful
+[INFO ] 2020-08-26 14:59:08.031 [main] BaseTestClass - Shop By Department Arrow click successful
+[INFO ] 2020-08-26 14:59:09.029 [main] BaseTestClass - Electronics click successful
+[INFO ] 2020-08-26 14:59:13.255 [main] BaseTestClass - Electronics Page is displayed
+[INFO ] 2020-08-26 14:59:13.255 [main] BaseTestClass - Electronics Page getting attribute
+[ERROR] 2020-08-26 14:59:13.934 [main] BaseTestClass - expected [Electronics Store] but found [Electronics]
+[INFO ] 2020-08-26 15:14:04.705 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-08-26 15:14:31.655 [main] BaseTestClass - Done is displayed
+[INFO ] 2020-08-26 15:14:31.655 [main] BaseTestClass - Done getting clicked
+[INFO ] 2020-08-26 15:14:33.885 [main] BaseTestClass - Skip Sign-In is displayed
+[INFO ] 2020-08-26 15:14:33.885 [main] BaseTestClass - Skip Sign-In getting clicked
+[INFO ] 2020-08-26 15:14:34.039 [main] BaseTestClass - Main Search Box getting attribute
+[INFO ] 2020-08-26 15:14:39.871 [main] BaseTestClass - Main Menu Bar click successful
+[INFO ] 2020-08-26 15:14:42.701 [main] BaseTestClass - Shop By Department Arrow click successful
+[INFO ] 2020-08-26 15:14:45.918 [main] BaseTestClass - Electronics click successful
+[INFO ] 2020-08-26 15:14:47.063 [main] BaseTestClass - Electronics Page is displayed
+[INFO ] 2020-08-26 15:14:47.063 [main] BaseTestClass - Electronics Page getting attribute
+[ERROR] 2020-08-26 15:14:47.924 [main] BaseTestClass - expected [Electronics Store] but found [Electronics]
+[INFO ] 2020-08-26 16:13:08.816 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-08-26 16:13:37.609 [main] BaseTestClass - Done is displayed
+[INFO ] 2020-08-26 16:13:37.610 [main] BaseTestClass - Done getting clicked
+[INFO ] 2020-08-26 16:13:40.151 [main] BaseTestClass - Skip Sign-In is displayed
+[INFO ] 2020-08-26 16:13:40.152 [main] BaseTestClass - Skip Sign-In getting clicked
+[INFO ] 2020-08-26 16:13:40.349 [main] BaseTestClass - Main Search Box getting attribute
+[INFO ] 2020-08-26 16:13:44.653 [main] BaseTestClass - Main Menu Bar click successful
+[INFO ] 2020-08-26 16:13:47.600 [main] BaseTestClass - Shop By Department Arrow click successful
+[INFO ] 2020-08-26 16:13:50.381 [main] BaseTestClass - Electronics click successful
+[INFO ] 2020-08-26 16:13:52.161 [main] BaseTestClass - Electronics Page is displayed
+[INFO ] 2020-08-26 16:13:52.161 [main] BaseTestClass - Electronics Page getting attribute
+[ERROR] 2020-08-26 16:13:53.745 [main] BaseTestClass - expected [Electronics Store] but found [Electronics]
+[INFO ] 2020-10-08 15:31:06.981 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk
+[INFO ] 2020-10-08 15:32:25.066 [main] BaseTestClass - app location is C:\Users\Manish\eclipse-workspace\AmazonDemoProject\src\test\resources\app\android\amazon.apk

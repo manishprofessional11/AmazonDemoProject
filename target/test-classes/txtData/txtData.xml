@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- *****************************************************************************
+#Author: Manish Gairola
+#Document Name: Configuration Properties
+#Date Created: 13 July 2020
+This file Stores all the static text data which may be required for the test
+***************************************************************************** -->
+<resources>
+
+<string name = "xmlDone">Done</string>
+<string name = "xmlSkipSignIn">Skip Sign-In</string>
+<string name = "searchBoxText">What are you looking for?</string>
+<string name = "xmlSearchBox">Main Search Box</string>
+<string name = "xmlmainMenuBar">Main Menu Bar</string>
+<string name = "xmlshopByDeptArrow">Shop By Department Arrow</string>
+<string name = "xmlelectronics">Electronics</string>
+<string name = "xmlelectronicsPage">Electronics Page</string>
+<string name = "xmllabelElectronicsPage">Electronics</string>
+<string name = "xmlLabelRAndSPage">eBook Readers &amp; Accessories</string>
+<string name = "xmlReadAndAccessories">Reader And Accessories</string>
+<string name = "xmlFirstTopRatedItem">First Top Rated Item</string>
+<string name = "xmlInStock">In Stock</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" parallel="tests">
+    <parameter name="platformVersion" value="6.0"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="CESSPZG6YS55C65H"/>
+    <parameter name="deviceName" value="Lenovo A7020a48"/>
+    <classes>
+      <class name="com.amazon.tests.SampleTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="afterClass"/>
+          <include name="beforeMethod"/>
+          <include name="sampleTestCase"/>
+        </methods>
+      </class> <!-- com.amazon.tests.SampleTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
